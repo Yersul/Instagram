@@ -1,0 +1,125 @@
+.container{
+	display: flex;
+	align-self:  center;
+	justify-content: space-between;
+	padding: 10px;
+}
+.div1{
+	order:1;
+	align-self:  center;
+	padding-right: 10px;
+	 margin-left: 335px;
+    margin-top: 60px;
+}
+.src{
+	width:50%;
+	height: 618px;
+   
+    
+}
+.src1{
+	position: absolute;
+	top:170px;
+	left:500px;
+
+	width:16.1%;
+}
+
+.div2{
+	
+	position: absolute;
+	top:150px;
+	left:700px;
+	order: 2;
+	border: solid grey;
+	width:350px;
+	height:400px;
+	margin-left: 100px;
+	border-width: thin;
+}
+.h1{
+	position: absolute;
+	margin-left: 20px;
+}
+.form1{
+	position: absolute;
+	top:110px;
+	left:20px;
+	padding:  15px;
+	}
+.cr1{
+	position: absolute;
+	left:50px;
+	width:240px;
+}
+
+#search{
+	background-color: #f7f7f7;
+	border-width: thin;
+	border-radius: 2px;
+	width:250px;
+	height:30px;
+	border-color: grey;
+
+}
+#search1{
+	position: relative;
+	border-width: thin;
+	background-color: #f7f7f7;
+	margin-top: 6px;
+		border-radius: 2px;
+		width:250px;
+		height:30px;
+	border-color: grey;
+		
+}
+.a1{
+	position: absolute;
+	margin-top: 230px;
+	margin-left: 40px;
+	color:white;
+	width:250px;
+	text-align: center;
+	text-decoration: none;
+	background-color: #99e6ff;
+	border:none;
+	height: 30px;
+}
+.p1{
+	position: absolute;
+	margin-top: 270px;
+	margin-left: 65px;
+	color:grey;
+
+}
+.b1{
+	position: absolute;
+	margin-top:300px;
+	margin-left: 80px;
+	text-decoration: none;
+	color: #003399;
+	line-height: 2;
+
+}
+.div3{
+	position: absolute;
+	top:570px;
+	left:800px;
+	border: solid grey;
+	width:350px;
+	height:50px;
+	border-width: thin;
+}
+.zagr{
+	position: absolute;
+	top: 670px;
+	left:820px;
+	width:20%;
+}
+.p3{
+	position: absolute;
+	top:620px;
+	left:900px;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 1.5dppx)
